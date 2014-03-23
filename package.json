@@ -1,0 +1,14 @@
+{
+  "name": "filetype-color",
+  "main": "./lib/filetype-color",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["filetype-color:toggle"],
+  "repository": "https://github.com/atom/filetype-color",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
