@@ -21,7 +21,7 @@ An example could be:
 Toggle on and off with **ctrl-alt-cmd-b**
 
 ##Screenshot
-![Screenshot](filetype-color.gif)
+![Screenshot](https://github.com/sommerper/filetype-color/raw/master/filetype-color.gif)
 
 ##Disclaimer
 Since I don't code in coffeescript and the Atom API docs still leave a lot to be desired I couldn't see if there are any events fired when content changes in the tree and pane view.
