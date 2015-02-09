@@ -1,7 +1,7 @@
 {
   "name": "filetype-color",
   "main": "./lib/filetype-color",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Color codes file names in the side bar and pane view.",
   "repository": "https://github.com/sommerper/filetype-color",
   "license": "MIT",

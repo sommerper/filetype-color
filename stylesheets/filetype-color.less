@@ -1,3 +1,20 @@
+.status-modified {
+    .filetype-color {
+        position: relative;
+        &:after {
+            content: "\2039";
+            color: #ff982d;
+            font-size: 1.5em;
+            position: absolute;
+            margin-left: 0.2em;
+        }
+    }
+}
+
+.filetype-color {
+    // border: 1px solid red;
+}
+
 .filetype-color-js
 {
     color: #90c276;
