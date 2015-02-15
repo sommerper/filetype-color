@@ -1,9 +1,9 @@
-.status-modified {
+.file.status-modified {
 
     .filetype-color {
 
         position: relative;
-        
+
         &:after {
             content: "\2039";
             color: #ff982d;
@@ -15,7 +15,7 @@
 }
 
 .filetype-color {
-    // border: 1px solid red;
+    transition: color 200ms;
 }
 
 .filetype-color-js
@@ -141,4 +141,9 @@
 .filetype-color-d
 {
     color: #B13429;
+}
+
+.filetype-color-eot, .filetype-color-svg, .filetype-color-ttf, .filetype-color-woff
+{
+    color: #a8d173;
 }
